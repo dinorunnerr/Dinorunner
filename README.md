@@ -35,7 +35,7 @@ Um jogo divertido estilo *Chrome Dino* com visual aprimorado, um dinossauro de s
 
 ## 🖼️ Screenshot
 
-> *(adicione aqui uma imagem do jogo se quiser)*
+> *dinorunner.png*
 
 ---
 
